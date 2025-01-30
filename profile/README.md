@@ -38,10 +38,8 @@
 
 | **분야**       | **사용 기술**                                 | 
 |----------------|---------------------------------------------|   
-| **[Frontend](https://github.com/Team4-ReadIT/readIT_frontend)**   | React                       |
-| **[Backend](https://github.com/Team4-ReadIT/ReadIT-Server)**    | Spring Boot, Java   
-| **Database**   | AWS S3, MySQL(RDS)                       |
-| **Deploy & CI/CD**      | Jenkins, Docker, AWS EC2  |
+| **[Frontend](https://github.com/2024-2-SOLUX-in-space/inspace-frontend)**   | React                       |
+| **[Backend](https://github.com/2024-2-SOLUX-in-space/inspace-backend)**    | Spring Boot, Java   
 
 </br>
 
@@ -55,15 +53,14 @@
 
 | **이름**            | **역할**              |
 |---------------------|-----------------------|
-| [****]    | PM, Frontend |
-| [****]  | Frontend  |
-| [****] | Frontend |
-| [****]     | Frontend  |
-| [****]     | Frontend  |
-| [****]     | Backend  |
-| [****]     | Backend  |
-| [****]     | Backend  |
-| [****]     | Backend  |
+| [**김채현**](https://github.com/chaehyeon03)    | PM, Frontend |
+| [**배정연**](https://github.com/bluishflame)  | Design, Frontend  |
+| [**안예빈**](https://github.com/ye-bean) | Frontend |
+| [**정채연**](https://github.com/chaeyeon-jung)     | Frontend  |
+| [**강민서**](https://github.com/1224kang)     | Backend  |
+| [**김소영**](https://github.com/soyoung2118)     | Backend  |
+| [**윤서진**](https://github.com/Y00NSJ)     | Backend  |
+| [**조영서**](https://github.com/jjwm10625)     | Backend  |
 
 </br>
 
