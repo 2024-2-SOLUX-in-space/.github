@@ -7,20 +7,20 @@
 
 </br>
 
-## 🔥 **𝗣𝗿𝗼𝗷𝗲𝗰𝘁 𝗢𝘃𝗲𝗿𝘃𝗶𝗲𝘄**
+## 🔥 **Project Overview**
 
-### 𝗕𝗮𝗰𝗸𝗴𝗿𝗼𝘂𝗻𝗱
+### Background
 - 사진뿐만 아니라 음악, 영상까지 스크랩함으로써 공감각적인 공간을 제작해보자
 
-### 𝗚𝗼𝗮𝗹𝘀
+### Goals
 - 다양한 매체를 스크랩북 형식으로 한 곳에서 모아볼 수 있도록 하는 서비스를 개발하자
 
-### 𝗜𝗻𝘁𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻
+### Introduction
 - 다양한 영감으로 채우는 나만의 공간
 
 </br>
 
-### 𝗣𝗿𝗼𝗷𝗲𝗰𝘁 𝗦𝗰𝗵𝗲𝗱𝘂𝗹𝗲
+### Project Schedule
 
 |    🚩단계           | ⌛기간              |
 |----------------|------------------------|
@@ -64,16 +64,16 @@
 
 </br>
 
-##  📊 **𝗣𝗿𝗼𝗷𝗲𝗰𝘁 𝗗𝗶𝗮𝗴𝗿𝗮𝗺𝘀**
+##  📊 **Project Diagrams**
 
 
-### 𝗦𝗲𝗿𝘃𝗶𝗰𝗲 𝗔𝗿𝗰𝗵𝗶𝘁𝗲𝗰𝘁𝘂𝗿𝗲
+### Service Architecture
 ![image](https://github.com/user-attachments/assets/b834b1c4-891e-49d1-8401-9e4ef62f0764)
 
 
 </br>
 
-## 👥 **𝗠𝗲𝗺𝗯𝗲𝗿𝘀 𝗮𝗻𝗱 𝗥𝗼𝗹𝗲𝘀**
+## 👥 **Members and Roles**
 
 | **이름**            | **역할**              |
 |---------------------|-----------------------|
@@ -89,6 +89,6 @@
 </br>
 
 
-## 🔗 𝗥𝗲𝘀𝗼𝘂𝗿𝗰𝗲𝘀
+## 🔗 Resources
 - <a href="https://github.com/2024-2-SOLUX-in-space/inspace-frontend">FE Address</a>
 - <a href="https://github.com/2024-2-SOLUX-in-space/inspace-backend">BE Address</a>
