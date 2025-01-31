@@ -68,6 +68,7 @@
 
 
 ### 𝗦𝗲𝗿𝘃𝗶𝗰𝗲 𝗔𝗿𝗰𝗵𝗶𝘁𝗲𝗰𝘁𝘂𝗿𝗲
+![image](https://github.com/user-attachments/assets/b834b1c4-891e-49d1-8401-9e4ef62f0764)
 
 
 </br>
@@ -89,3 +90,5 @@
 
 
 ## 🔗 𝗥𝗲𝘀𝗼𝘂𝗿𝗰𝗲𝘀
+- <a href="https://github.com/2024-2-SOLUX-in-space/inspace-frontend">FE Address</a>
+- <a href="https://github.com/2024-2-SOLUX-in-space/inspace-backend">BE Address</a>
