@@ -55,10 +55,10 @@
 | 5.1 | ![image](https://github.com/user-attachments/assets/cf5a3448-1595-4581-b2b4-0e58b3d282dd) | 공간 편집 기능 설명 |
 | 5.2 | ![image](https://github.com/user-attachments/assets/168b119f-42f5-4d2f-9664-def749f3b25e) | |
 | 5.3 | ![image](https://github.com/user-attachments/assets/210fb8d7-a4a0-4d52-9a0d-c2cd422958a0) | |
-| 6  | ![image](https://github.com/user-attachments/assets/41fd6ad0-3da0-4e17-804f-163fe98e5fb4) | 사이드바 - 공간 목록 |
-| 6  | ![image](https://github.com/user-attachments/assets/5f95c9f7-119f-4433-83ca-a8c70a54ae16) | 사이드바 - 공간 추가 |
+| 6  | ![image](https://github.com/user-attachments/assets/41fd6ad0-3da0-4e17-804f-163fe98e5fb4) | 사이드바 - 공간 목록에서는 사용자가 만든 공간이 출력됩니다. 메인 공간 설정, 공간 공개/비공개 설정, 공간 삭제를 할 수 있습니다. |
+| 6  | ![image](https://github.com/user-attachments/assets/5808ee5c-35fa-4946-b8aa-62c002322cff) </br> ![image](https://github.com/user-attachments/assets/a060a325-47d6-41ad-80f5-9c865f6a09b7) </br> ![image](https://github.com/user-attachments/assets/2f4ab539-c2d1-42dc-9099-a66bf9a2f7e6) | 사이드바 - 공간 추가에서는 새로운 공간을 만들 수 있습니다. 사용자는 3가지의 표지, 공간의 이름과 대표 설정 여부, 공간의 공개/비공개 여부를 선택합니다. 공간 생성이 완료되면 공간 목록에 출력됩니다. |
 | 5.5  |  | 사이드바 - 팔로우/팔로잉 |
-| 6  |  | 알림창 |
+| 6  | ![image](https://github.com/user-attachments/assets/fe99dffd-a399-4d05-9b6e-23a2b31e3ad4) | 알림함에서는 팔로우/팔로잉에 관한 알림을 볼 수 있습니다. 알림 개별 읽음 및 전체 읽음 처리가 가능합니다. |
 | 7.1 | ![image](https://github.com/user-attachments/assets/644821d5-2d7a-4635-b757-b901c34cd019) | 마이페이지 (내 정보 조회) |
 | 7.2 | ![image](https://github.com/user-attachments/assets/a611c69e-ce69-4804-bcaa-50ecf574b2fc) | 내 정보 수정 |
 |  |  | 검색 |
