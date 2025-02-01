@@ -51,21 +51,20 @@
 | 2    | ![image](https://github.com/user-attachments/assets/b88fc7ef-bc3f-4511-be4c-a17799584d0c) | 회원가입 페이지 |
 | 3    | ![image](https://github.com/user-attachments/assets/c43085cc-8a4b-4390-8744-5f4924bf973f) | 로그인 페이지 |
 | 4    | ![image](https://github.com/user-attachments/assets/519d6f1a-21bc-4a89-926c-99aef7424c54) | 비밀번호 찾기 페이지 |
-| 5.1  | ![image](https://github.com/user-attachments/assets/02272daf-a386-4a00-a7bf-b0487bc53c1a) | 홈 페이지 |
-| 5.2  | ![image](https://github.com/user-attachments/assets/41fd6ad0-3da0-4e17-804f-163fe98e5fb4) | 사이드바 - 공간 목록 |
-| 5.3  | ![image](https://github.com/user-attachments/assets/5f95c9f7-119f-4433-83ca-a8c70a54ae16) | 사이드바 - 공간 추가 |
-![image](https://github.com/user-attachments/assets/168b119f-42f5-4d2f-9664-def749f3b25e)
-![image](https://github.com/user-attachments/assets/210fb8d7-a4a0-4d52-9a0d-c2cd422958a0)
-| 5.4  |  | 사이드바 - 공간 편집 |
-| 5.4.1  | ![image](https://github.com/user-attachments/assets/cf5a3448-1595-4581-b2b4-0e58b3d282dd) | 공간 편집 기능 설명 |
-
+| 5  | ![image](https://github.com/user-attachments/assets/02272daf-a386-4a00-a7bf-b0487bc53c1a) | 홈 페이지 (메인 페이지) |
+| 5.1 | ![image](https://github.com/user-attachments/assets/cf5a3448-1595-4581-b2b4-0e58b3d282dd) | 공간 편집 기능 설명 |
+| 5.2 | ![image](https://github.com/user-attachments/assets/168b119f-42f5-4d2f-9664-def749f3b25e) | |
+| 5.3 | ![image](https://github.com/user-attachments/assets/210fb8d7-a4a0-4d52-9a0d-c2cd422958a0) | |
+| 6  | ![image](https://github.com/user-attachments/assets/41fd6ad0-3da0-4e17-804f-163fe98e5fb4) | 사이드바 - 공간 목록 |
+| 6  | ![image](https://github.com/user-attachments/assets/5f95c9f7-119f-4433-83ca-a8c70a54ae16) | 사이드바 - 공간 추가 |
 | 5.5  |  | 사이드바 - 팔로우/팔로잉 |
-| 6.1  |  | 헤더 - 알림창 |
-| 6.2  |  | 헤더 - 마이페이지 |
-| 6.3  |  | 헤더 - 검색 |
-| 7.1  |  | 검색 결과 |
-| 7.2  |  | 검색 결과 필터링 |
-| 7.3  |  | 검색 결과 내 공간에 추가 |
+| 6  |  | 알림창 |
+| 7.1 | ![image](https://github.com/user-attachments/assets/644821d5-2d7a-4635-b757-b901c34cd019) | 마이페이지 (내 정보 조회) |
+| 7.2 | ![image](https://github.com/user-attachments/assets/a611c69e-ce69-4804-bcaa-50ecf574b2fc) | 내 정보 수정 |
+|  |  | 검색 |
+|  |  | 검색 결과 |
+|  |  | 검색 결과 필터링 |
+|  |  | 검색 결과 내 공간에 추가 |
 
 </br>
 
@@ -102,8 +101,3 @@
 | [**조영서**](https://github.com/jjwm10625)     | Backend  |
 
 </br>
-
-
-## 🔗 Resources
-- <a href="https://github.com/2024-2-SOLUX-in-space/inspace-frontend">FE Address</a>
-- <a href="https://github.com/2024-2-SOLUX-in-space/inspace-backend">BE Address</a>
