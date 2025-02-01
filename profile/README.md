@@ -10,14 +10,16 @@
 ## 🔥 **Project Overview**
 
 ### Introduction
-- inspiration + space
+- **in**spiration + **space**
 - 다양한 영감으로 채우는 나만의 공간
 
 ### Background
-- 사진뿐만 아니라 음악, 영상까지 스크랩함으로써 공감각적인 공간을 제작해보자
+- 시각적, 청각적 매체를 한 번에 검색하여 스크랩하기 어려움
+- 자유로운 배치를 통해 나만의 스크랩북을 제작하고자 함
 
 ### Goals
-- 스크랩북 형식으로 다양한 매체를 한 곳에서 모아볼 수 있도록 함
+- 여러 곳에 흩어져 있는 매체를 한 곳에 모아 공감각적인 공간 제작 가능
+- 맞춤형 스크랩북 형식으로 사용자만의 독창적인 공간 제작 가능
 
 
 </br>
@@ -46,14 +48,20 @@
 | 번호 | 이미지 | 설명 |
 |------|--------|------|
 | 1    | ![startingpage](https://github.com/user-attachments/assets/c484eabe-ad78-464c-ac80-0e9031fa2bba) | 시작 페이지 |
-| 2    |  | 회원가입 페이지 |
-| 3    |  | 로그인 페이지 |
-| 4    |  | 비밀번호 찾기 페이지 |
-| 5.1  |  | 홈 페이지 |
-| 5.2  |  | 사이드바 - 공간 목록 |
-| 5.3  |  | 사이드바 - 공간 추가 |
+| 2    | ![image](https://github.com/user-attachments/assets/b88fc7ef-bc3f-4511-be4c-a17799584d0c) | 회원가입 페이지 |
+| 3    | ![image](https://github.com/user-attachments/assets/c43085cc-8a4b-4390-8744-5f4924bf973f) | 로그인 페이지 |
+| 4    | ![image](https://github.com/user-attachments/assets/519d6f1a-21bc-4a89-926c-99aef7424c54) | 비밀번호 찾기 페이지 |
+| 5.1  | ![image](https://github.com/user-attachments/assets/02272daf-a386-4a00-a7bf-b0487bc53c1a) | 홈 페이지 |
+| 5.2  | ![image](https://github.com/user-attachments/assets/41fd6ad0-3da0-4e17-804f-163fe98e5fb4) | 사이드바 - 공간 목록 |
+| 5.3  | ![image](https://github.com/user-attachments/assets/5f95c9f7-119f-4433-83ca-a8c70a54ae16) | 사이드바 - 공간 추가 |
+|| ![image](https://github.com/user-attachments/assets/168b119f-42f5-4d2f-9664-def749f3b25e) ||
+|| ![image](https://github.com/user-attachments/assets/210fb8d7-a4a0-4d52-9a0d-c2cd422958a0) ||
 | 5.4  |  | 사이드바 - 공간 편집 |
-| 5.4.1  |  | 공간 편집 기능 설명 |
+| 5.4.1  | ![image](https://github.com/user-attachments/assets/cf5a3448-1595-4581-b2b4-0e58b3d282dd) | 공간 편집 기능 설명 |
+|| ![image](https://github.com/user-attachments/assets/3785a318-5087-455a-8bb3-f1eff2e729b8) ||
+|| ![image](https://github.com/user-attachments/assets/b17773d8-4772-4efa-b2d8-659545de6995) ||
+|| ![image](https://github.com/user-attachments/assets/ccd9f5ba-e722-4909-bb2d-ea7d3215cdb5) ||
+|| ![image](https://github.com/user-attachments/assets/8c0596c1-36dc-482e-aa87-c54bbbf196b0) ||
 | 5.5  |  | 사이드바 - 팔로우/팔로잉 |
 | 6.1  |  | 헤더 - 알림창 |
 | 6.2  |  | 헤더 - 마이페이지 |
