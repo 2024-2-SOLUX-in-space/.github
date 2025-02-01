@@ -27,9 +27,13 @@
 | 기획           | 2024.09.08 ~ 05.15         |
 | 기획발표회      | 2024.10.07              |
 | 개발           | 2024.11.10 ~ 2025.02.02   |
-| 최종발표회      | 2024.02.03               |
+| 최종발표회      | 2025.02.03               |
 
 </br>
+
+## 🧩 **Menu Structure**
+![inspace-menu structure](https://github.com/user-attachments/assets/cf72e5e6-e249-4d9e-bb35-7a2d97b67913)
+
 
 ## 💡 **Page Introduction**
 
