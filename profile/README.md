@@ -32,7 +32,7 @@
 </br>
 
 ## 🧩 **Menu Structure**
-![inspace-menu structure](https://github.com/user-attachments/assets/cf72e5e6-e249-4d9e-bb35-7a2d97b67913)
+![inspace-menu structure](https://github.com/user-attachments/assets/bc5fa013-2627-4d40-9070-d7677be6bc4e)
 
 
 ## 💡 **Page Introduction**
