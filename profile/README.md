@@ -32,7 +32,11 @@
 </br>
 
 ## 🧩 **Menu Structure**
-![inspace-menu structure](https://github.com/user-attachments/assets/bc5fa013-2627-4d40-9070-d7677be6bc4e)
+![inspace_menustructure](https://github.com/user-attachments/assets/21f8ee15-6e3a-47db-8d36-7eda441870d4)
+
+
+## ⛓️ **Flowchart**
+![inspace_flowchart](https://github.com/user-attachments/assets/d50f2cfa-fee1-45b5-8ec2-f053aadd5d83)
 
 
 ## 💡 **Page Introduction**
