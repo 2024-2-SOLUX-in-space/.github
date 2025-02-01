@@ -36,8 +36,7 @@
 </br>
 
 ## 🧩 **Menu Structure**
-![inspace_menustructure](https://github.com/user-attachments/assets/e01717e0-dfb7-4380-a575-e464c4fc19b5)
-
+![inspace_menustructure](https://github.com/user-attachments/assets/6e51d19e-83bb-4646-9179-45e16da1fb5f)
 
 </br>
 
