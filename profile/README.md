@@ -54,14 +54,11 @@
 | 5.1  | ![image](https://github.com/user-attachments/assets/02272daf-a386-4a00-a7bf-b0487bc53c1a) | 홈 페이지 |
 | 5.2  | ![image](https://github.com/user-attachments/assets/41fd6ad0-3da0-4e17-804f-163fe98e5fb4) | 사이드바 - 공간 목록 |
 | 5.3  | ![image](https://github.com/user-attachments/assets/5f95c9f7-119f-4433-83ca-a8c70a54ae16) | 사이드바 - 공간 추가 |
-|| ![image](https://github.com/user-attachments/assets/168b119f-42f5-4d2f-9664-def749f3b25e) ||
-|| ![image](https://github.com/user-attachments/assets/210fb8d7-a4a0-4d52-9a0d-c2cd422958a0) ||
+![image](https://github.com/user-attachments/assets/168b119f-42f5-4d2f-9664-def749f3b25e)
+![image](https://github.com/user-attachments/assets/210fb8d7-a4a0-4d52-9a0d-c2cd422958a0)
 | 5.4  |  | 사이드바 - 공간 편집 |
 | 5.4.1  | ![image](https://github.com/user-attachments/assets/cf5a3448-1595-4581-b2b4-0e58b3d282dd) | 공간 편집 기능 설명 |
-|| ![image](https://github.com/user-attachments/assets/3785a318-5087-455a-8bb3-f1eff2e729b8) ||
-|| ![image](https://github.com/user-attachments/assets/b17773d8-4772-4efa-b2d8-659545de6995) ||
-|| ![image](https://github.com/user-attachments/assets/ccd9f5ba-e722-4909-bb2d-ea7d3215cdb5) ||
-|| ![image](https://github.com/user-attachments/assets/8c0596c1-36dc-482e-aa87-c54bbbf196b0) ||
+
 | 5.5  |  | 사이드바 - 팔로우/팔로잉 |
 | 6.1  |  | 헤더 - 알림창 |
 | 6.2  |  | 헤더 - 마이페이지 |
