@@ -14,8 +14,8 @@
 - 다양한 영감으로 채우는 나만의 공간
 
 ### Background
-- 시각적, 청각적 매체를 한 번에 검색하여 스크랩하기 어려움
-- 자유로운 배치를 통해 나만의 스크랩북을 제작하고자 함
+- 시각적, 청각적 레퍼런스들을 한곳에 정리하면 어떨까? 라는 생각에서 출발
+- 획일화된 틀이 아닌 자유로운 배치를 통한 나만의 스크랩북 제작
 
 ### Goals
 - 여러 곳에 흩어져 있는 매체를 한 곳에 모아 공감각적인 공간 제작 가능
@@ -36,7 +36,8 @@
 </br>
 
 ## 🧩 **Menu Structure**
-![inspace_menustructure](https://github.com/user-attachments/assets/21f8ee15-6e3a-47db-8d36-7eda441870d4)
+![inspace_menustructure](https://github.com/user-attachments/assets/e01717e0-dfb7-4380-a575-e464c4fc19b5)
+
 
 </br>
 
@@ -68,7 +69,7 @@
 
 
 ### Service Architecture
-![image](https://github.com/user-attachments/assets/b834b1c4-891e-49d1-8401-9e4ef62f0764)
+![inspace_servarch](https://github.com/user-attachments/assets/b834b1c4-891e-49d1-8401-9e4ef62f0764)
 
 </br>
 
