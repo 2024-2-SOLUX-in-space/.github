@@ -46,7 +46,9 @@
 </br>
 
 ## 💡 **Key Features**
-|-------|-----------------------|
+
+| **기능** | **설명**             | 
+|----------|-----------------------|
 | feat1 | ![feat1](https://github.com/user-attachments/assets/387f2df4-a7b4-4d84-acb4-e36227f136f3) |
 | feat2 | ![feat2](https://github.com/user-attachments/assets/e31b38c2-e1e9-4a8a-8dd5-802dd09ccb9f) |
 | feat3 | ![feat3](https://github.com/user-attachments/assets/21d0cca3-9567-421b-ad31-b411ddd1cb06) |
